@@ -1,4 +1,4 @@
-# CNN-handwritten-digit-recognition
+# Handwritten Digit Recognition using CNN
 Datasets:
 
 EMNIST
