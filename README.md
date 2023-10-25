@@ -1,6 +1,7 @@
 # Handwritten Digit Recognition using CNN
 
 
+
 ## Datasets:
 ### EMNIST
 The Extended MNIST or EMNIST dataset expands on the MNIST database commonly used as
