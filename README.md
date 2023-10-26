@@ -56,4 +56,4 @@ Used plt.imshow() to verify that the image data has been loaded correctly and th
 ### Part 1 - Task 3
 Using the model's dense (fully connected) architecture on our emnist training's data set and only changing the input layer to accept 784 pixels and the output layer to have 27 nodes, the accuracy received after the 5th epoch while training was .9238 while the loss received was .2323. This accuracy was lower as compared to the mnist training data set, and respectively, the loss was higher.
 
-During evaluating with the test data set, this model produced an accuracy of .9016 and a loss of .3233. As compared to the mnist evaluation on the test data set, this model's accuracy was lower and the loss was higher.   
+During evaluating with the test data set, this model produced an accuracy of .9016 and a loss of .3233. As compared to the mnist evaluation on the test data set, this model's accuracy was lower and the loss was higher.     
