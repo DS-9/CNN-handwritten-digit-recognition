@@ -17,6 +17,7 @@ to match the EMNIST Letters:
 
 ● The labels are in the same format as EMNIST Letters, including the unused class 0.
 
+
 Note, however, that the resolution of the images is different in this dataset: 20×16 rather than 28×28.
 
 ## Steps:
